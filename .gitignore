@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm
+.idea/
+
+.DS_Store
+
+# Profile raw from coverage testing
+default.profraw
